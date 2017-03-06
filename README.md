@@ -1,7 +1,7 @@
 <!-- title: Python 程式設計基礎教學講義 -->
 <!-- subtitle: 版本號：v1.0 -->
 
-# Python 基本語法推廣教材
+# Python 程式設計基礎教學講義
 
 Python 版本：3.5 以上
 
