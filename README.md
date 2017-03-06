@@ -1,4 +1,4 @@
-<!-- title: Python 基本語法推廣教材 -->
+<!-- title: Python 程式設計基礎教學講義 -->
 <!-- subtitle: 版本號：v1.0 -->
 
 # Python 基本語法推廣教材
