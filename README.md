@@ -11,6 +11,14 @@ Python 程式設計基礎教學講義
 
 (部分內容取自：[李宜熹老師 Python 教學講義](https://github.com/eclee/QF20161108/))
 
+## 課程參考書目
+
+* Introducing Python, Bill Lubanovic, 2015
+* Python Cookbook 3rd Edition, David Beazley et al., 2013
+* Python for Data Analysis, Wes McKinney, 2013
+* Python for Finance, Yves Hilpisch, 2014. 
+* Python 3.5 技術手冊, 林信良, 2016.
+
 ## Python 使用者群組
 
 * [PyLadies Taiwan](http://www.meetup.com/PyLadiesTW/)
