@@ -11,6 +11,17 @@ Python 程式設計基礎教學講義
 
 (部分內容取自：[李宜熹老師 Python 教學講義](https://github.com/eclee/QF20161108/))
 
+## Python 使用者群組
+
+* [PyLadies Taiwan](http://www.meetup.com/PyLadiesTW/)
+* [Django Girls Taipei](http://djangogirls.org/taipei)
+* [Taipei.py](http://www.meetup.com/Taipei-py/)
+* [Tainan.py](http://www.meetup.com/Tainan-py-Python-Tainan-User-Group/)
+* [PyHUG](http://www.meetup.com/pythonhug/)
+* [Taichung.py](http://www.meetup.com/Taichung-Python-Meetup/)
+* [Kaohsiung.py](http://www.meetup.com/Kaohsiung-Python-Meetup)
+* [Hualien.py](http://www.meetup.com/Hualien-Py/)
+
 ## 網路資源
 
 * 自學
