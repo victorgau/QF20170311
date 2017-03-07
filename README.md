@@ -52,8 +52,8 @@ Python 程式設計基礎教學講義
 * 諮詢
     - [stackoverflow](http://stackoverflow.com/questions/tagged/python)
 
-* 上課講義之外的一些程式排行榜連結
-    - [葉難 - 程式語言排行榜](http://yehnan.blogspot.tw/2016/07/blog-post.html)
+* 其他
+    - [葉難 - 程式語言排行榜](http://yehnan.blogspot.tw/2016/07/blog-post.html)
     - [葉難 - 程式語言排行榜 Part 2](http://yehnan.blogspot.tw/2017/02/part-2.html)
     - [壹讀 - 2016年，有哪些適合你學習的程式語言？](https://read01.com/mLmB7P.html)
     - [What are the 5 most popular programming languages and which pays the best salary?](http://www.cbronline.com/news/internet-of-things/what-are-the-5-most-popular-programming-languages-and-which-pays-the-best-salary-4973423/)
