@@ -1,4 +1,4 @@
-<!-- title: Python 程式設計基礎教學講義 -->
+﻿<!-- title: Python 程式設計基礎教學講義 -->
 <!-- subtitle: 版本號：v1.0 -->
 
 # Python 程式設計基礎教學講義
@@ -49,11 +49,16 @@ Python 程式設計基礎教學講義
     - [27 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) ([中譯版](http://www.liuchengxu.org/pelican-blog/jupyter-notebook-tips.html))
     - ...
 
+* GitHub
+    - [IPython Notebooks for Python for Data Analysis](https://github.com/wesm/pydata-book)
+    - [Jupyter Notebooks for Python for Finance](https://github.com/yhilpisch/py4fi)
+    - [Pandas 入門介紹](https://github.com/Wei1234c/Introduction_to_Pandas)
+    - [Examples in Introducing Python](https://github.com/madscheme/introducing-python)
+
 * 諮詢
     - [stackoverflow](http://stackoverflow.com/questions/tagged/python)
 
 * 其他
-
     - [葉難 - 程式語言排行榜](http://yehnan.blogspot.tw/2016/07/blog-post.html)
     - [葉難 - 程式語言排行榜 Part 2](http://yehnan.blogspot.tw/2017/02/part-2.html)
     - [壹讀 - 2016年，有哪些適合你學習的程式語言？](https://read01.com/mLmB7P.html)
