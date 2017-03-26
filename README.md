@@ -56,8 +56,8 @@ Python 是一門相對好學，而且是各個領域都可以使用的一般性�
 * 台北：[Taipei.py](http://www.meetup.com/Taipei-py/)
 * 台南：[Tainan.py](http://www.meetup.com/Tainan-py-Python-Tainan-User-Group/)
 * 新竹：[PyHUG](http://www.meetup.com/pythonhug/)
-* 台中：[Taichung.py](http://www.meetup.com/Taichung-Python-Meetup/) [Kahsiung.py 的 FB](https://www.facebook.com/groups/kaohsiungpy/)
-* 高雄：[Kaohsiung.py](http://www.meetup.com/Kaohsiung-Python-Meetup)
+* 台中：[Taichung.py](http://www.meetup.com/Taichung-Python-Meetup/)
+* 高雄：[Kaohsiung.py 的 Meetup](http://www.meetup.com/Kaohsiung-Python-Meetup)、[Kahsiung.py 的 FB](https://www.facebook.com/groups/kaohsiungpy/)
 * 花蓮：[Hualien.py](http://www.meetup.com/Hualien-Py/)
 
 ## 網路資源
