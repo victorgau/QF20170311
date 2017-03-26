@@ -27,11 +27,11 @@ Python 是一門相對好學，而且是各個領域都可以使用的一般性�
 
 1. 安裝 [Anaconda](https://www.continuum.io/downloads)
 2. 下載課程內容
-   1. 點擊右上角的 Clone or Download 按鈕
+   1. 點擊右上角的綠色 Clone or Download 按鈕
    2. 點擊 download zip
    3. 下載後解壓縮至特定目錄
 3. 執行 Jupyter Notebook
-   1. 進入命力提示列。(或從視窗執行列鍵入 cmd 。)
+   1. 進入命令提示列。(或從視窗執行列鍵入 cmd 。)
    2. cd 至步驟 2 的特定目錄
    3. 執行 jupyter notebook
    4. 瀏覽器會自動被開啟，所有的教材內容會出現在網頁上
