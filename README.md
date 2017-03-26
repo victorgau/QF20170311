@@ -17,7 +17,7 @@ Python 是一門相對好學，而且是各個領域都可以使用的一般性�
 * Numpy, MatPlotLib, Pandas 介紹
 * Python 的 Web 框架
 
-前兩部分主要會使用 Jupyter Notebook 來進行教學，並講解實例、提高學習興趣。教學的目標是希望學員可以理解並實作簡單的股票分析系統。
+前兩部分主要會使用 Jupyter Notebook 來進行教學、講解範例、提高學習興趣，目標是希望學員可以理解並實作簡單的股票分析系統。
 
 (印製的講義的部分內容取自：[李宜熹老師 Python 教學講義](https://github.com/eclee/QF20161108/))
 
