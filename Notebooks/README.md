@@ -2,9 +2,9 @@
 
 這裡面的範例，主要是想達到幾個目的：
 
-* 在簡介 Python 時，用來告訴聽眾，Python 的程式有多簡單。
-* 在介紹完 Numpy, MatPlotLib, 跟 Pandas 之後，用來說明如何使用 Python 做到一些以前不好做的事情。
-* 透過每個簡單的範例，反覆練習使用 Python 的資料結構，如 list, dict 等等。
+1. 在簡介 Python 時，用來告訴聽眾，Python 的程式有多簡單。
+2. 在介紹完 Numpy, MatPlotLib, 跟 Pandas 之後，用來說明如何使用 Python 做到一些以前不好做的事情。
+3. 透過每個簡單的範例，反覆練習使用 Python 的資料結構，如 list, dict 等等。
 
 但是最終目的，是希望聽眾可以自己動手嘗試去做出自己的分析系統。
 
