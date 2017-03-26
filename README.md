@@ -23,6 +23,19 @@ Python 是一門相對好學，而且是各個領域都可以使用的一般性�
 
 (上課的實際內容以目錄內的 .ipynb 為準，內容會不斷更新，且會依學員的反應，動態的做調整。)
 
+## 教材的使用
+
+1. 安裝 [Anaconda](https://www.continuum.io/downloads)
+2. 下載課程內容
+   1. 點擊右上角的 Clone or Download 按鈕
+   2. 點擊 download zip
+   3. 下載後解壓縮至特定目錄
+3. 執行 Jupyter Notebook
+   1. 進入命力提示列。(或從視窗執行列鍵入 cmd 。)
+   2. cd 至步驟 2 的特定目錄
+   3. 執行 jupyter notebook
+   4. 瀏覽器會自動被開啟，所有的教材內容會出現在網頁上
+
 ## 課程參考書目
 
 * Introducing Python, Bill Lubanovic, 2015.
