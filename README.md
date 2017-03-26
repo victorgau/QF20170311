@@ -47,7 +47,7 @@ Python 是一門相對好學，而且是各個領域都可以使用的一般性�
 
 ## 台灣的 Python 研討會
 
-* 每一年舉行的 Python 盛會：[PyCon Taiwan](https://tw.pycon.org/)
+* 每年定期舉行的 Python 研討會：[PyCon Taiwan](https://tw.pycon.org/)
 
 ## 台灣的 Python 使用者群組
 
