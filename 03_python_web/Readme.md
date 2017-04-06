@@ -18,6 +18,7 @@ Flask 為輕量型的框架，Django 為中至重量型的的框架。
 * 活用 if 語句
 * 活用 for, while 迴圈
 * 活用函式 
+* 了解什麼是 Virtual Environment
 * 了解修飾器 (decorator)
 * 了解物件導向程式設計 (OOP)
 
