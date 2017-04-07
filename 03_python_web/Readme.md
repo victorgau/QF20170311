@@ -7,9 +7,9 @@
 
 Bottle 及 Flask 為輕量級的框架，Django 為中至重量級的的框架。
 
-關於輕量級的框架，我們會先介紹 Bottle，再介紹 Flask。介紹 Flask 時，我們會舉幾個例子來來介紹樣板。
+關於輕量級的框架，我們會先介紹 Bottle，再介紹 Flask。介紹 Flask 時，我們會舉幾個例子來介紹樣板。
 
-當熟悉了樣板的使用之後，在介紹 Django 的 MTV 的架構時，學員比較容易體會 Django 的好用之處。
+當熟悉了樣板的使用之後，介紹到 Django 的 MTV 的架構時，學員比較容易體會 Django 的好用之處。
 
 課程建議具備以下的 Python 基礎：
 
