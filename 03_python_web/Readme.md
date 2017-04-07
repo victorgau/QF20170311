@@ -1,26 +1,35 @@
 ## Python 的 Web 框架
 
-本次課程預計介紹兩種框架：
+本次課程預計介紹兩類框架：
 
-* Flask
+* Bottle, Flask
 * Django
 
-Flask 為輕量型的框架，Django 為中至重量型的的框架。
+Bottle 及 Flask 為輕量級的框架，Django 為中至重量級的的框架。
 
-我們會先介紹 Flask，並舉幾個例子來活用 Jinja2 的樣板。
+關於輕量級的框架，我們會先介紹 Bottle，再介紹 Flask。介紹 Flask 時，我們會舉幾個例子來來介紹樣板。
 
 當熟悉了樣板的使用之後，在介紹 Django 的 MTV 的架構時，學員比較容易體會 Django 的好用之處。
 
 課程建議具備以下的 Python 基礎：
 
-* 活用基本資料類型 (int, float, str,...)
-* 活用基本資料結構 (list, tuple, dict, set)
-* 活用 if 語句
-* 活用 for, while 迴圈
-* 活用函式 
-* 了解什麼是 Virtual Environment
-* 了解修飾器 (decorator)
-* 了解物件導向程式設計 (OOP)
+1. 能夠靈活運用：
+
+   * 基本資料類型 (int, float, str,...)
+   * 基本資料結構 (list, tuple, dict, set)
+   * if 語句
+   * for, while 迴圈
+   * 函式 
+
+2. 需了解：
+
+   * Virtual Environment
+   * 修飾器 (decorator)
+   * 物件導向程式設計 (OOP)
+
+Bottle 的教學文件可以參考：
+
+* [Bottle Tutorial](https://bottlepy.org/docs/0.12/tutorial.html)
 
 Flask 的教學文件可以參考：
 
