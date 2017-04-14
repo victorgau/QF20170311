@@ -35,7 +35,15 @@
 
 ![](./images/mvc.gif)
 
+MVC 架構|Django的MTV架構
+:-:|:-:
+Model|Model
+View|Template
+Controller|View
+
 ![](./images/MTV.png)
+
+Django 的 Views 分成 Function View 跟 Class View。
 
 ## Project & App
 
