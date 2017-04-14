@@ -7,7 +7,7 @@
 * [Django-REST-framework 基本教學](https://github.com/twtrubiks/django-rest-framework-tutorial)
 * [Try Django 1.10](https://github.com/codingforentrepreneurs/Try-Django-1.10)
 
-因為網路上的教學太多了，所以我們課程上，主要是使用範例引導學員了解 Django 的一些核心概念。
+我們課程上，主要是使用範例引導學員了解 Django 的一些核心概念。
 
 需要了解的東西如下：
 
@@ -31,20 +31,34 @@
 * Deployment
   - 選擇使用 pythonanywhere 做為佈署環境
 
-在這裡我們使用底下的一些範例，來講解 Django 的概念。
+在這裡我們用下面的範例，來講解 Django 的概念。
 
-Hello1
+hello1
 
 * Hello World 程式
 * 將 Function View 寫在 Project 的 urls.py 裡面。
 
-Hello2
+hello2
 
 * Hello World 程式
 * 將 Function View 寫在 Project 的 views.py 裡面。
 
-Hello3
+hello3
 
 * Hello World 程式
 * 將 Function View 寫在 App 的 views.py 裡面。
 
+hello4
+
+* Hello World 程式
+* 將 http request 轉到 App 的 urls.py 裡面。
+
+techanjs
+
+* 使用 django 重作前面的 flask 的範例
+
+mymodel
+
+* 建立 models
+* 練習 ORM
+* 練習 python manage.py 的三個指令 makemigrations, migrate, shell
