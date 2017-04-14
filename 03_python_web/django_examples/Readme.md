@@ -33,9 +33,9 @@
 
 ## MVC 概念及 Django 的 MTV 架構
 
-![](/images/mvc.gif)
+![](./images/mvc.gif)
 
-![](/images/MTV.png)
+![](./images/MTV.png)
 
 
 
