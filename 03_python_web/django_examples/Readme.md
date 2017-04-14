@@ -14,22 +14,33 @@
 * MVC 的概念 及 Django 的 MTV 架構
 * Project & App
 * Hello World
-  - 直些寫在 Project 裡面，不需要 App
-  - 寫在 App 裡面的 views.py
+  - 可以直接寫在 Project 裡面，如此就不需要建立 App
+  - 也寫在 App 裡面的 views.py
   - 怎麼設定 settings.py
   - 怎麼設定 urls.py
 * Views
   - Function Views
-  - <font color='red'>Class Views</font>
+  - Class Views
 * Templates
 * Models
   - ORM (python manage.py shell)
   - django admin 後台
 * Forms
   - Form Models
-  - <font color='red'>ModelForms</font>
+  - ModelForms
 * Deployment
   - 選擇使用 pythonanywhere 做為佈署環境
+
+## MVC 概念及 Django 的 MTV 架構
+
+![](/images/mvc.gif)
+
+![](/images/MTV.png)
+
+
+
+
+## 範例：
 
 在這裡我們用下面的範例，來講解 Django 的概念。
 
