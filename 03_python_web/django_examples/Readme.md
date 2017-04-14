@@ -26,7 +26,7 @@
   - ORM (python manage.py shell)
   - django admin 後台
 * Forms
-  - Form Models
+  - Form classes
   - ModelForms
 * Deployment
   - 選擇使用 pythonanywhere 做為佈署環境
@@ -37,7 +37,9 @@
 
 ![](./images/MTV.png)
 
+## Project & App
 
+![](./images/project_app.png)
 
 
 ## 範例：
