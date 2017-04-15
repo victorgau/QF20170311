@@ -9,6 +9,8 @@
 
 我們課程上，主要是使用範例引導學員了解 Django 的一些核心概念。
 
+投影片網址如下：[https://goo.gl/dtyUXF](https://goo.gl/dtyUXF)
+
 需要了解的東西如下：
 
 * MVC 的概念 及 Django 的 MTV 架構
