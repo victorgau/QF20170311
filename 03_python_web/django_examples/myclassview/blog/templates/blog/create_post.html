@@ -1,0 +1,14 @@
+<html>
+<head>
+  <title>建立 Post</title>
+</head>
+<body>
+  <form action="{% url 'create_post' %}" method="get">
+    標題：<br/>
+    <input id="title" type="text" name="title"><br/>
+    內容：<br/>
+    <textarea rows="4" cols="50" name="body">Enter text here...</textarea><br/>
+    <input type="submit" value="張貼">
+  </form>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head><title>Post List Page</title></head>
+<body>
+  <h1>Post List</h1>
+  <ul>
+    {% for object in object_list %}
+    <li>
+      <small>{{object.created_at}}</small>
+      <h2><a href="{% url 'post_detail_view' pk=object.pk %}">{{object.title}}</a></h2>
+      <div>{{object.body|truncatechars:30}}</div>
+    </li>
+    {% endfor %}
+  </ul>
+</body>
+</html>

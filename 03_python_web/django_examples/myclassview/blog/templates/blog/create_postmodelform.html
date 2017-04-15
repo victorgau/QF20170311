@@ -1,0 +1,17 @@
+<html>
+<head>
+  <title>建立 Post</title>
+</head>
+<body>
+  <form action="{% url 'create_postform' %}" method="post">
+    {% if f.errors %}
+    <p stytle="color:red">請依提示修改</p>
+    {% endif %}
+    {% csrf_token %}
+    <table>
+    {{ f.as_table }}
+    </table>
+    <input type="submit" value="張貼">
+  </form>
+</body>
+</html>
